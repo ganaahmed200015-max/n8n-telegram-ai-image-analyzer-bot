@@ -32,14 +32,7 @@
         -64
       ],
       "id": "7a74ae99-fffe-42ab-8525-4ebfe623296d",
-      "name": "Telegram Trigger",
-      "webhookId": "948a6436-f09f-45bb-a80c-c3a3d1a52561",
-      "credentials": {
-        "telegramApi": {
-          "id": "UOPdRYrD5TE2I6lf",
-          "name": "Telegram account"
-        }
-      }
+      "name": "Telegram Trigger"
     },
     {
       "parameters": {
@@ -54,14 +47,7 @@
         -64
       ],
       "id": "15e238a3-6f38-4831-a0ee-bf586b5579e2",
-      "name": "Send a text message",
-      "webhookId": "7be51238-b382-41bb-9677-4fd34641d191",
-      "credentials": {
-        "telegramApi": {
-          "id": "UOPdRYrD5TE2I6lf",
-          "name": "Telegram account"
-        }
-      }
+      "name": "Send a text message"
     },
     {
       "parameters": {
@@ -74,13 +60,7 @@
         112
       ],
       "id": "6d96c52d-dd31-4af9-a059-294b21b2428e",
-      "name": "Google Gemini Chat Model",
-      "credentials": {
-        "googlePalmApi": {
-          "id": "NGuQUxdGmDm4HGnf",
-          "name": "Google Gemini(PaLM) Api account"
-        }
-      }
+      "name": "Google Gemini Chat Model"
     }
   ],
   "connections": {
